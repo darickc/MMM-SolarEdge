@@ -1,25 +1,29 @@
-.ct-series-a .ct-line {
-    stroke: white;
-    stroke-width: 2px;
+.solarEdge .ct-series-a .ct-line {
+  stroke: white;
+  stroke-width: 2px;
 }
 
-.ct-series-a .ct-bar {
-    stroke: white;
+.solarEdge .ct-series-a .ct-bar {
+  stroke: white;
 }
 
-.ct-series-a .ct-point {
-    stroke: transparent;
+.solarEdge .ct-series-a .ct-point {
+  stroke: transparent;
 }
 
-.ct-series-a .ct-area {
-    fill: rgb(255, 255, 255, 0.9);
+.solarEdge .ct-series-a .ct-area {
+  fill: #fff;
 }
 
-.ct-grid {
-    stroke: rgb(255, 255, 255, 0.4);
+.solarEdge .ct-area {
+  fill-opacity: 0.3;
 }
 
-.ct-label {
-    fill: rgba(255, 255, 255, 1);
-    color: rgba(255, 255, 255, 1);
+.solarEdge .ct-grid {
+  stroke: rgb(255, 255, 255, 0.4);
+}
+
+.solarEdge .ct-label {
+  fill: rgba(255, 255, 255, 1);
+  color: rgba(255, 255, 255, 1);
 }

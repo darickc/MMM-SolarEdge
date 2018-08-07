@@ -115,7 +115,7 @@ Module.register('MMM-SolarEdge', {
     // const wrapperEl = document.createElement('div');
     const div = document.createElement('div');
     div.id = 'ctChart' + this.identifier;
-    div.className = 'ct-chart';
+    div.className = 'ct-chart solarEdge';
     // wrapperEl.appendChild(div);
     return div;
   },
