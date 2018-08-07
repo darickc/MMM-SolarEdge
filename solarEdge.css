@@ -1,0 +1,25 @@
+.ct-series-a .ct-line {
+    stroke: white;
+    stroke-width: 2px;
+}
+
+.ct-series-a .ct-bar {
+    stroke: white;
+}
+
+.ct-series-a .ct-point {
+    stroke: transparent;
+}
+
+.ct-series-a .ct-area {
+    fill: rgb(255, 255, 255, 0.9);
+}
+
+.ct-grid {
+    stroke: rgb(255, 255, 255, 0.4);
+}
+
+.ct-label {
+    fill: rgba(255, 255, 255, 1);
+    color: rgba(255, 255, 255, 1);
+}
